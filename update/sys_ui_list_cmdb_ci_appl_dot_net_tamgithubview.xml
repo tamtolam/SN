@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="cmdb_ci_appl_dot_net" version="2" view="tamgithubview">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="cmdb_ci_appl_dot_net" element="NULL" name="cmdb_ci_appl_dot_net" parent="NULL" relationship="NULL" sys_domain="global" view="2338bba8db0213002340eb41ca961987">fb487fe8db0213002340eb41ca9619a6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-10 15:52:25</sys_created_on>
+            <sys_id>73487fe8db0213002340eb41ca9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-10 15:52:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_class_name</element>
+            <list_id display_value="cmdb_ci_appl_dot_net" element="NULL" name="cmdb_ci_appl_dot_net" parent="NULL" relationship="NULL" sys_domain="global" view="2338bba8db0213002340eb41ca961987">fb487fe8db0213002340eb41ca9619a6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-10 15:52:25</sys_created_on>
+            <sys_id>f3487fe8db0213002340eb41ca9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-10 15:52:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>category</element>
+            <list_id display_value="cmdb_ci_appl_dot_net" element="NULL" name="cmdb_ci_appl_dot_net" parent="NULL" relationship="NULL" sys_domain="global" view="2338bba8db0213002340eb41ca961987">fb487fe8db0213002340eb41ca9619a6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-10 15:52:25</sys_created_on>
+            <sys_id>77487fe8db0213002340eb41ca9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-10 15:52:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>version</element>
+            <list_id display_value="cmdb_ci_appl_dot_net" element="NULL" name="cmdb_ci_appl_dot_net" parent="NULL" relationship="NULL" sys_domain="global" view="2338bba8db0213002340eb41ca961987">fb487fe8db0213002340eb41ca9619a6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-10 15:52:25</sys_created_on>
+            <sys_id>f7487fe8db0213002340eb41ca9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-10 15:52:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>operational_status</element>
+            <list_id display_value="cmdb_ci_appl_dot_net" element="NULL" name="cmdb_ci_appl_dot_net" parent="NULL" relationship="NULL" sys_domain="global" view="2338bba8db0213002340eb41ca961987">fb487fe8db0213002340eb41ca9619a6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-10 15:52:25</sys_created_on>
+            <sys_id>7b487fe8db0213002340eb41ca9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-10 15:52:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>cmdb_ci_appl_dot_net</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-10 15:52:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fb487fe8db0213002340eb41ca9619a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>cmdb_ci_appl_dot_net</sys_name>
+            <sys_package display_value="Tam_GitHub_App" source="x_198663_tam_githu">cc477ba8db0213002340eb41ca9619b1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Tam_GitHub_App">cc477ba8db0213002340eb41ca9619b1</sys_scope>
+            <sys_update_name>sys_ui_list_cmdb_ci_appl_dot_net_tamgithubview</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-10 15:52:25</sys_updated_on>
+            <sys_user/>
+            <view display_value="TamGitHubView" name="tamgithubview">2338bba8db0213002340eb41ca961987</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
